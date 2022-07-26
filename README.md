@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 I’m currently learning data science and looking to get some experience here!
 
 <!--
 **HariniTade/HariniTade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
