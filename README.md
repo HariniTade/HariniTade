@@ -1,8 +1,16 @@
-### 🔭 I’m a self starter,an innovative and highly motivated data enthusiast with 5+ years of experience in analytics, customer success, and data science solutions. Achievements include productizing machine learning analytics to improve delivered value, as well as successfully implementing efforts to scale analytics capabilities within a SaaS product. 
+![Purple Monotone Minimalist Flood Crisis Hub LinkedIn Banner](https://user-images.githubusercontent.com/39814030/195676873-865e8dd3-d3c1-44f1-a15c-e1f3608348e3.jpg)
+
+
+
+### 🔭 Hello, I'm Harini! 
+
+I’m a self starter, an innovative and highly motivated data enthusiast with 5+ years of experience in analytics, customer success, and data science solutions. Achievements include productizing machine learning analytics to improve delivered value, as well as successfully implementing efforts to scale analytics capabilities within a SaaS product. I thrive in diverse environments and where I can see the impact of my efforts 
 
 https://www.hackerrank.com/harini_t1 
 
 https://public.tableau.com/app/profile/harini.tadepalli
+
+
 
 <!--
 **HariniTade/HariniTade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
