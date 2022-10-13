@@ -7,9 +7,10 @@
 
 I’m a self starter, an innovative and highly motivated data enthusiast with 5+ years of experience in analytics, customer success, and data science solutions. Achievements include productizing machine learning analytics to improve delivered value, as well as successfully implementing efforts to scale analytics capabilities within a SaaS product. I thrive in diverse environments and where I can see the impact of my efforts 
 
-https://www.hackerrank.com/harini_t1 
 
-https://public.tableau.com/app/profile/harini.tadepalli
+Hackerrank: https://www.hackerrank.com/harini_t1 
+
+Tableau: https://public.tableau.com/app/profile/harini.tadepalli
 
 
 
