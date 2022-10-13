@@ -1,4 +1,8 @@
-### 🌱 I’m currently learning data science and looking to get some experience here!
+### 🔭 I’m a self starter,an innovative and highly motivated data enthusiast with 5+ years of experience in analytics, customer success, and data science solutions. Achievements include productizing machine learning analytics to improve delivered value, as well as successfully implementing efforts to scale analytics capabilities within a SaaS product. 
+
+https://www.hackerrank.com/harini_t1 
+
+https://public.tableau.com/app/profile/harini.tadepalli
 
 <!--
 **HariniTade/HariniTade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
