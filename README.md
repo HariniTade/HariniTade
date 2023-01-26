@@ -1,16 +1,16 @@
-![Purple Monotone Minimalist Flood Crisis Hub LinkedIn Banner](https://user-images.githubusercontent.com/39814030/195680113-a05b9c05-79f8-4865-9a86-c44effdb5ccf.png)
+<!-- ![Purple Monotone Minimalist Flood Crisis Hub LinkedIn Banner](https://user-images.githubusercontent.com/39814030/195680113-a05b9c05-79f8-4865-9a86-c44effdb5ccf.png) -->
 
 
 
 
 ### 🔭 Hello, I'm Harini! 
 
-I’m a self starter, an innovative and highly motivated data enthusiast with 5+ years of experience in analytics, customer success, and data science solutions. Achievements include productizing machine learning analytics to improve delivered value, as well as successfully implementing efforts to scale analytics capabilities within a SaaS product. I thrive in diverse environments and where I can see the impact of my efforts 
+I’m a self starter, an innovative and highly motivated data enthusiast with 5+ years of experience in analytics, customer success, and bridging the gap between the black box data science and digestible information. Achievements include productizing machine learning analytics to improve delivered value, as well as successfully implementing efforts to scale analytics capabilities within a SaaS product. I thrive in diverse environments and where I can see the impact of my efforts. 
 
-
+<!-- 
 Hackerrank: https://www.hackerrank.com/harini_t1 
 
-Tableau: https://public.tableau.com/app/profile/harini.tadepalli
+Tableau: https://public.tableau.com/app/profile/harini.tadepalli -->
 
 
 
